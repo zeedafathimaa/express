@@ -1,0 +1,17 @@
+{
+    "data":[
+        {
+            "name":"zida",
+            "gender":"Female"
+        },
+        {
+            "name":"Karan",
+            "gender":"Male"
+        },
+        {
+            "name":"Diya",
+            "gender":"Female"
+        }
+
+    ]
+}
